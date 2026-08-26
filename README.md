@@ -1,16 +1,57 @@
-## Hi there 👋
+ Hi 👋, I'm Singathurai
 
-<!--
-**singathurai007/singathurai007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 DevOps Engineer
 
-Here are some ideas to get you started:
+I am an Information Technology graduate focused on DevOps, Cloud Infrastructure, CI/CD automation, containerization, and Kubernetes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🛠️ Technical Skills
+
+- ☁️ AWS
+- 🐧 Linux
+- 🔧 Git & GitHub
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔄 Jenkins
+- 🏗️ Terraform
+- ⚙️ GitHub Actions
+- 🔍 SonarQube
+- 🛡️ Trivy
+- 📦 Argo CD
+- 📊 Prometheus & Grafana
+
+🚀 DevOps Projects
+
+1. End-to-End DevSecOps CI/CD Pipeline
+GitHub → Jenkins → SonarQube → Docker → Trivy → Terraform → AWS → Kubernetes
+
+ 2. AWS Infrastructure Automation
+Infrastructure provisioning and automation using Terraform and AWS.
+
+ 3. Kubernetes Deployment
+Containerized application deployment and management using Docker and Kubernetes.
+
+ 4. GitOps with Argo CD
+Automated Kubernetes deployments using GitOps principles and Argo CD.
+
+ 📚 Currently Learning
+
+- Advanced Kubernetes
+- AWS Cloud Architecture
+- DevSecOps
+- GitOps
+- Infrastructure as Code
+- Cloud Monitoring
+
+ 🎯 Career Goal
+
+To build secure, scalable, and automated cloud infrastructure as a DevOps Engineer.
+
+🔗 Connect With Me
+
+- LinkedIn: [linkedin.com/in/singathuraic/]
+- GitHub: https://github.com/singathurai007
+
+
+
+
+
