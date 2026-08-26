@@ -1,4 +1,7 @@
- Hi 👋, I'm Singathurai
+<p align="center">
+  <img src="./devops-banner.png" alt="Singathurai DevOps Engineer Portfolio" width="100%">
+</p>
+Hi 👋, I'm Singathurai
 
  🚀 DevOps Engineer
 
@@ -48,7 +51,7 @@ To build secure, scalable, and automated cloud infrastructure as a DevOps Engine
 
 🔗 Connect With Me
 
-- LinkedIn: [linkedin.com/in/singathuraic/]
+- LinkedIn: https://www.linkedin.com/in/singathuraic
 - GitHub: https://github.com/singathurai007
 
 
