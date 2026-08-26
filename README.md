@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="ChatGPT Image Aug 26, 2026, 11_11_53 PM.png" alt="Singathurai DevOps Engineer Portfolio" width="100%">
-</p>
+
 Hi 👋, I'm Singathurai
 
  🚀 DevOps Engineer
