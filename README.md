@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./devops-banner.png" alt="Singathurai C - Junior Cloud & DevOps Engineer" width="100%">
+  <img src="devops-banner-singathurai007.png" alt="Singathurai C - Junior Cloud & DevOps Engineer" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Singathurai C</h1>
@@ -198,7 +198,7 @@ Monitoring
 
 ## 🔗 Connect With Me
 
-<p align="center"> <img src="./devops-banner.png" alt="Singathurai C - Junior Cloud & DevOps Engineer" width="100%"> </p>
+<p align="center"> <img src="devops-banner-singathurai007.png" alt="Singathurai C - Junior Cloud & DevOps Engineer" width="100%"> </p>
 
 <h1 align="center">Hi 👋, I'm Singathurai C</h1>
 
