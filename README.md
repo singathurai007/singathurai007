@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Singathurai C</h1>
 
-<h3 align="center">☁️ Junior Cloud & DevOps Engineer</h3>
+<h3 align="center">software|| Cloud || DevOps Engineer</h3>
 
 <p align="center"> <b>AWS • Terraform • Jenkins • GitHub • Linux • Docker • Kubernetes</b> </p>
 
