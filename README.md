@@ -9,7 +9,7 @@
 <p align="center"> <b>AWS • Terraform • Jenkins • GitHub • Linux • Docker • Kubernetes</b> </p>
 
 👨‍💻 About Me
-
+ 
 I'm a B.Tech Information Technology graduate focused on Cloud and DevOps engineering.
 
 I have hands-on experience building CI/CD pipelines, automating AWS infrastructure with Terraform, and deploying applications to Ubuntu EC2 instances using Jenkins, GitHub, SSH and SCP.
