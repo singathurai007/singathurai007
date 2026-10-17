@@ -26,6 +26,9 @@
   <a href="./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf">
     <img src="https://img.shields.io/badge/Resume-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
+  <a href="https://github.com/Singathurai007/singathurai-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 </div>
@@ -41,7 +44,7 @@
 - 🛠️ Hands-on with **CI/CD pipelines**, **AWS infrastructure as code (Terraform)** and app deployments to **Ubuntu EC2** via Jenkins, SSH & SCP.
 - ☁️ Passionate about **automation, cloud infrastructure, deployment reliability & monitoring**.
 - 🚀 Currently leveling up in **Advanced Kubernetes, GitOps, DevSecOps & Cloud Architecture**.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/singathuraic)** • 📄 **[Resume](./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf)**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/singathuraic)** • 🌐 **[Portfolio](https://github.com/Singathurai007/singathurai-portfolio)** • 📄 **[Resume](./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf)**
 
 <br clear="both" />
 
@@ -112,7 +115,20 @@ AWS EC2 → CloudWatch → CPU Alarm → SNS → Email Alert
 
 ---
 
-## 📚 Currently Learning
+## � Popular Repositories
+
+| Repository | Description | Tech |
+| :--- | :--- | :--- |
+| 🖼️ **[Instagram-clone](https://github.com/Singathurai007/Instagram-clone)** | Instagram clone built using React, JSON Server, Bootstrap and React Router | `JavaScript` `React` `Bootstrap` |
+| 📖 **[book-sky](https://github.com/Singathurai007/book-sky)** | Create your own book | `HTML` |
+| 🎨 **[nostra](https://github.com/Singathurai007/nostra)** | Frontend project | `HTML` |
+| 🎨 **[MyProject](https://github.com/Singathurai007/MyProject)** | Frontend project | `HTML` |
+| 🎨 **[rgkfc](https://github.com/Singathurai007/rgkfc)** | Frontend project | `Frontend` |
+| ⚙️ **[html](https://github.com/Singathurai007/html)** | Practice repository for CI/CD pipeline | `HTML` |
+
+---
+
+## �� Currently Learning
 
 <p>
   <img src="https://img.shields.io/badge/Advanced%20Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
