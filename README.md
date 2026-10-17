@@ -49,24 +49,18 @@
 
 ## 🛠️ Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, Java, Python, Bash |
-| **Frontend** | React, Next.js, HTML5, CSS3, Bootstrap, Tailwind CSS |
-| **Backend & APIs** | Node.js, Express, REST API, Jest, npm |
-| **Databases** | MySQL, PostgreSQL, MongoDB, Redis |
-| **Cloud (AWS)** | EC2, IAM, S3, CloudWatch, SNS |
-| **CI/CD & Automation** | Jenkins, GitHub Actions, GitLab CI, ArgoCD |
-| **Infrastructure as Code** | Terraform, Ansible, Helm, Vagrant |
-| **Containers & Orchestration** | Docker, Kubernetes |
-| **Operating Systems** | Linux, Ubuntu |
-| **Monitoring & Logging** | Prometheus, Grafana, CloudWatch, ELK |
-| **DevSecOps & Quality** | SonarQube, Trivy, Vault, Nexus |
-| **Web Servers & Tools** | Apache, Nginx, Git, GitHub, VS Code, Postman |
+### 💻 Software Engineer
+`JavaScript` `TypeScript` `Java` `Python` `React` `Next.js` `Node.js` `Express` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS` `REST API` `MySQL` `PostgreSQL` `MongoDB` `Git` `Jest` `npm` `VS Code` `Postman`
+
+### ☁️ Cloud Engineer
+`AWS` `EC2` `IAM` `S3` `CloudWatch` `SNS` `Terraform` `Linux` `Ubuntu` `Apache` `Nginx`
+
+### ⚙️ DevOps Engineer
+`Jenkins` `GitHub Actions` `GitLab CI` `ArgoCD` `Terraform` `Ansible` `Helm` `Vagrant` `Docker` `Kubernetes` `Prometheus` `Grafana` `ELK` `Bash` `SonarQube` `Trivy` `Vault` `Nexus`
 
 ---
 
-##  Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
