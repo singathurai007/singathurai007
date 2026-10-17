@@ -13,13 +13,10 @@
 </a>
 
 <p align="center">
-  <b>AWS • Terraform • Jenkins • GitHub Actions • Ansible • Linux • Docker • Kubernetes • Prometheus</b>
+  <b>JavaScript • React • Node.js • Java • AWS • Terraform • Jenkins • Docker • Kubernetes • Linux • Prometheus</b>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Singathurai007">
-    <img src="https://komarev.com/ghpvc/?username=Singathurai007&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Profile Views" />
-  </a>
   <a href="https://github.com/Singathurai007?tab=followers">
     <img src="https://img.shields.io/github/followers/Singathurai007?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" alt="Followers" />
   </a>
@@ -63,13 +60,22 @@
 
 <div align="center">
 
-**☁️ Cloud &nbsp;|&nbsp; ⚙️ CI/CD &nbsp;|&nbsp; 🏗️ IaC &nbsp;|&nbsp; 🐳 Containers &nbsp;|&nbsp; 📊 Monitoring**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,jenkins,githubactions,gitlab,docker,kubernetes,helm,linux,bash,python,git,github,grafana,prometheus,mysql,postgresql,nginx,redis,vscode&perline=12" alt="Tech Stack" />
-
-</div>
-
-<div align="center">
+**💻 Software Engineering** &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest" />
 
 **☁️ Cloud** &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
