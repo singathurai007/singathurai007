@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="banner-singathurai007-00.png" alt="Singathurai C — Software | Cloud | DevOps Engineer" width="100%">
 
 <h1>Hi 👋, I'm Singathurai C</h1>
 
