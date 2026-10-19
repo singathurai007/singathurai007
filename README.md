@@ -138,13 +138,7 @@ GitHub → Jenkins → CI/CD → Terraform → AWS → Docker → Kubernetes →
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Singathurai007/Singathurai007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-
-</div>
 
 ---
 
