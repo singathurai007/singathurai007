@@ -48,7 +48,7 @@ Software, Cloud and DevOps Engineer with a **B.Tech in Information Technology**,
 - ☁️ **Passionate about:** automation, cloud infrastructure, deployment reliability and monitoring.
 - 🚀 **Currently levelling up in:** Advanced Kubernetes, GitOps, DevSecOps and Cloud Architecture.
 - 🤝 **Strengths:** automation-first mindset, debugging, documentation and continuous learning.
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/singathuraic) · [Portfolio](https://github.com/Singathurai007/singathurai-portfolio) · [Resume](./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf)
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/singathuraic) · [Portfolio]https://singathurai-portfolio.onrender.com/) · [Resume](./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf)
 
 <br clear="both" />
 
