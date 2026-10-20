@@ -109,7 +109,7 @@ AWS EC2 → CloudWatch → CPU Alarm → SNS → Email Alert
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
-| 🖼️ **[Instagram-clone](https://github.com/Singathurai007/Instagram-clone)** | Instagram clone built using React, JSON Server, Bootstrap and React Router | `JavaScript` `React` `Bootstrap` |
+|  **[DevSecOps + GitOps delivery pipeline](https://github.com/singathurai007/devsecops-gitops.git)** | using Jenkins, Docker, Trivy, SonarQube, Docker Hub, GitHub, ArgoCD, and Kubernetes.
 | 📖 **[book-sky](https://github.com/Singathurai007/book-sky)** | Create your own book | `HTML` |
 | 🎨 **[nostra](https://github.com/Singathurai007/nostra)** | Frontend project | `HTML` |
 | 🎨 **[MyProject](https://github.com/Singathurai007/MyProject)** | Frontend project | `HTML` |
