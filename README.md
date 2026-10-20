@@ -109,7 +109,7 @@ AWS EC2 → CloudWatch → CPU Alarm → SNS → Email Alert
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
-|  **[DevSecOps + GitOps delivery pipeline](https://github.com/singathurai007/devsecops-gitops.git)** | using Jenkins, Docker, Trivy, SonarQube, Docker Hub, GitHub, ArgoCD, and Kubernetes.|`devsec-ops`|
+|  **[☁️DevSecOps + GitOps delivery pipeline](https://github.com/singathurai007/devsecops-gitops.git)** | using Jenkins, Docker, Trivy, SonarQube, Docker Hub, GitHub, ArgoCD, and Kubernetes.|`devsec-ops`|
 | 📖 **[book-sky](https://github.com/Singathurai007/book-sky)** | Create your own book | `HTML` |
 | 🎨 **[nostra](https://github.com/Singathurai007/nostra)** | Frontend project | `HTML` |
 | 🎨 **[MyProject](https://github.com/Singathurai007/MyProject)** | Frontend project | `HTML` |
