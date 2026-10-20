@@ -24,7 +24,7 @@
   <a href="https://github.com/Singathurai007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/Singathurai007/singathurai-portfolio">
+  <a href="https://singathurai-portfolio.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="./Singathurai_C_Resume_MHTECHIN_JuniorCloudDevOps.pdf">
